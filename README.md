@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Badiru27
 - 👀 I’m interested in Flutter Mobile Development, Wordpress and UI/UX Designs
 - 🌱 I’m currently learning more about Flutter + Firebase
-- 💞️ I’m looking to collaborate on and Flutter related project
+- 💞️ I’m looking to collaborate on any Flutter related project
 - 📫 How to reach me : Twitter(Badiru_); Email(Badirusulaimon27@gmail.com) 
 
 <!---
