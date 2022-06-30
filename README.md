@@ -1,4 +1,5 @@
-[![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)](https://smartbukites.com)
+![badiru-cover-image](https://user-images.githubusercontent.com/55401789/176687881-563be887-7766-44d2-b501-386363db26ee.png)
+
 <h1 align="center">Hi 👋, I'm Badiru Sulaimon</h1>
 <h3 align="center">A passionate mobile full stack developer from Nigeria. Open to relocation 😉</h3>
 <img align = "right", alt = "coding", width="200" src= "https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
