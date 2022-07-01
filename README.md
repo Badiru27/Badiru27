@@ -39,3 +39,9 @@
 
 - ⚡ Fun fact **Outside coding, I enjoy swimming 🏊 a lot**
 
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Badiru27&show_icons=true&locale=en" alt="Badiru27" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Badiru27" alt="Badiru27" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7H3-PR073C70R&" alt="Badiru27" /></p>
