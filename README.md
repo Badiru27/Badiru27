@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/badiru_" target="blank"><img src="https://img.shields.io/twitter/follow/badiru_?logo=twitter&style=for-the-badge" alt="badiru_" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **AWS VPC**
 
 - 👯 I’m looking to collaborate on **any Flutter or NodeJs project**
 
-- 💬 Ask me about **Flutter, Dart, JavaScript, Node, Vue**
+- 💬 Ask me about **Flutter, Dart, JavaScript, Node, React**
 
 - 📫 How to reach me **badirusulaimon27@gmail.com**
 
