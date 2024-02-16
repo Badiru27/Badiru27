@@ -1,4 +1,5 @@
-![badiru-cover-image](https://user-images.githubusercontent.com/55401789/176687881-563be887-7766-44d2-b501-386363db26ee.png)
+![1691233422381](https://github.com/Badiru27/Badiru27/assets/55401789/315f7153-3522-4a61-93f5-aefb9466ae42)
+
 
 <h1 align="center">Hi 👋, I'm Badiru Sulaimon</h1>
 <h3 align="center">A passionate mobile full stack developer from Nigeria. Open to relocation 😉</h3>
